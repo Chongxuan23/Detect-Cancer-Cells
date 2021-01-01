@@ -1,6 +1,6 @@
 # Detect-Cancer-Cells
 
-## Motivation
+## Motivation (Credit to https://www.kaggle.com/c/ucla-stats101c-lec3/data)
 
 Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. The majority of cancers are due to genes mutations, which are permanent alterations in the DNA sequence that makes up a gene. Such mutations can be inherited or caused by environmental and lifestyle factors. Two of the cancer driver genes, which are genes that play a role in cancer, are oncogenes and tumor suppressor genes.
 
