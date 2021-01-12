@@ -15,3 +15,13 @@ The training data are in the file training.csv. In the dataset, each row corresp
 This training data includes the responses in the column labeled class. The values of the response are the true class of each gene in the training set: NG (labeled as 0), OG (1) and TSG (2). The id column in this dataset identifies each observation in the training data.
 
 The test data are in file test.csv. The dataset includes 1,363 genes and 97 predictors. The test data does not include the gene classes. The challenge is to correctly identify the OGs and TSGs in this dataset. The id column in this dataset identifies each observation in the test data. To avoid confusions, the values in the id column in the test.csv file are different from those in the training.csv file.
+
+## Uploaded files:
+
+● "training.csv" contains the training data.
+
+● "test.csv" contains the testing data.
+
+● "detect_cancer_cells.Rmd" contains the main algorithm.
+
+● "Detect Cancer Cells Report" contains the project report.
